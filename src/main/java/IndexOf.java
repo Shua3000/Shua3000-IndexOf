@@ -23,8 +23,7 @@ public class IndexOf {
         // traverse in the array
         while (i < len) {
   
-            // if the i-th element is t
-            // then return the index
+
             if (arr[i] == n) {
                 return i;
             }
